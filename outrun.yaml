@@ -1,0 +1,8 @@
+lang:
+  "javascript"
+buildCmd:
+  "make run"
+watOutput:
+  ""
+wasmOutput:
+  "qjs.wasm"
